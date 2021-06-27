@@ -1,0 +1,32 @@
+name: update
+
+on:
+  schedule:
+  - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: bash
+    working-directory: process
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+    timeout-minutes: 15
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+    - run: |
+        npm install
+    - run: |
+        npm start
+    - uses: EndBug/add-and-commit@v7
+      with:
+        add: 'output'
+        author_name: GitHub Actions
+        author_email: actions@github.com
+        message: 'Updating output files (GitHub action)'

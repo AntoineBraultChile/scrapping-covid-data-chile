@@ -1,0 +1,19 @@
+{
+  "name": "scrapping-covid-data-chile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-fetch": "^3.0.1",
+    "dayjs": "^1.10.5",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7"
+  }
+}
