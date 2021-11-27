@@ -1,8 +1,6 @@
 {
 	"Arica": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-11-2020",
 			"23-11-2020",
@@ -17,8 +15,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -35,8 +31,6 @@
 	},
 	"Camarones": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-06-2021",
 			"25-09-2021",
@@ -44,8 +38,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -55,15 +47,11 @@
 	},
 	"General Lagos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-06-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			4
@@ -71,8 +59,6 @@
 	},
 	"Putre": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"08-07-2021",
 			"25-09-2021",
@@ -80,8 +66,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -91,8 +75,6 @@
 	},
 	"Alto Hospicio": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"23-11-2020",
@@ -106,8 +88,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -123,8 +103,6 @@
 	},
 	"Camiña": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"01-05-2021",
 			"08-07-2021",
@@ -132,8 +110,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -143,8 +119,6 @@
 	},
 	"Colchane": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-05-2021",
 			"22-09-2021",
@@ -153,8 +127,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -165,8 +137,6 @@
 	},
 	"Huara": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-01-2021",
 			"28-01-2021",
@@ -184,8 +154,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -205,8 +173,6 @@
 	},
 	"Iquique": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"21-12-2020",
@@ -220,8 +186,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -237,8 +201,6 @@
 	},
 	"Pica": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"04-03-2021",
@@ -249,8 +211,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -263,8 +223,6 @@
 	},
 	"Pozo Almonte": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"05-11-2020",
@@ -283,8 +241,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -305,8 +261,6 @@
 	},
 	"Antofagasta": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"09-11-2020",
@@ -321,8 +275,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -339,8 +291,6 @@
 	},
 	"Calama": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-09-2020",
 			"19-10-2020",
@@ -352,8 +302,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -367,8 +315,6 @@
 	},
 	"María Elena": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"11-03-2021",
@@ -382,8 +328,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -399,8 +343,6 @@
 	},
 	"Mejillones": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"09-11-2020",
@@ -415,8 +357,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -433,15 +373,11 @@
 	},
 	"Ollagüe": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-05-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			4
@@ -449,8 +385,6 @@
 	},
 	"San Pedro de Atacama": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"01-04-2021",
@@ -462,8 +396,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -477,8 +409,6 @@
 	},
 	"Sierra Gorda": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-05-2021",
 			"31-05-2021",
@@ -486,8 +416,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -497,8 +425,6 @@
 	},
 	"Taltal": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"18-03-2021",
@@ -511,8 +437,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -527,8 +451,6 @@
 	},
 	"Tocopilla": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"05-10-2020",
@@ -545,8 +467,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -565,8 +485,6 @@
 	},
 	"Alto del Carmen": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-12-2020",
 			"14-01-2021",
@@ -580,8 +498,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -597,8 +513,6 @@
 	},
 	"Caldera": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-12-2020",
 			"14-01-2021",
@@ -620,8 +534,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -645,8 +557,6 @@
 	},
 	"Chañaral": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-12-2020",
 			"14-01-2021",
@@ -667,8 +577,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -691,8 +599,6 @@
 	},
 	"Copiapó": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"05-11-2020",
@@ -709,8 +615,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -729,8 +633,6 @@
 	},
 	"Diego de Almagro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-12-2020",
 			"14-01-2021",
@@ -749,8 +651,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -771,8 +671,6 @@
 	},
 	"Freirina": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-12-2020",
 			"14-01-2021",
@@ -784,8 +682,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -799,8 +695,6 @@
 	},
 	"Huasco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-12-2020",
 			"14-01-2021",
@@ -816,8 +710,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -835,8 +727,6 @@
 	},
 	"Tierra Amarilla": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"03-10-2020",
@@ -857,8 +747,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -881,8 +769,6 @@
 	},
 	"Vallenar": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"26-10-2020",
@@ -903,8 +789,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -927,8 +811,6 @@
 	},
 	"Andacollo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -942,8 +824,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -959,8 +839,6 @@
 	},
 	"Canela": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -975,8 +853,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -993,8 +869,6 @@
 	},
 	"Combarbalá": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"12-12-2020",
@@ -1014,8 +888,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1037,8 +909,6 @@
 	},
 	"Coquimbo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"29-07-2020",
 			"28-09-2020",
@@ -1054,8 +924,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -1073,8 +941,6 @@
 	},
 	"Illapel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -1091,8 +957,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1111,8 +975,6 @@
 	},
 	"La Higuera": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -1125,8 +987,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1141,8 +1001,6 @@
 	},
 	"La Serena": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"29-07-2020",
 			"28-09-2020",
@@ -1158,8 +1016,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -1177,8 +1033,6 @@
 	},
 	"Los Vilos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"09-01-2021",
@@ -1194,8 +1048,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1213,8 +1065,6 @@
 	},
 	"Monte Patria": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"12-12-2020",
@@ -1228,8 +1078,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1245,8 +1093,6 @@
 	},
 	"Ovalle": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-08-2020",
 			"03-10-2020",
@@ -1266,8 +1112,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -1289,8 +1133,6 @@
 	},
 	"Paihuano": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -1307,8 +1149,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1327,8 +1167,6 @@
 	},
 	"Punitaqui": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"12-12-2020",
@@ -1346,8 +1184,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1367,8 +1203,6 @@
 	},
 	"Río Hurtado": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"12-12-2020",
@@ -1379,8 +1213,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1393,8 +1225,6 @@
 	},
 	"Salamanca": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -1409,8 +1239,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1427,8 +1255,6 @@
 	},
 	"Vicuña": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-11-2020",
 			"14-01-2021",
@@ -1444,8 +1270,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -1463,8 +1287,6 @@
 	},
 	"Algarrobo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-01-2021",
 			"08-04-2021",
@@ -1476,8 +1298,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1491,8 +1311,6 @@
 	},
 	"Cabildo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-01-2021",
 			"08-02-2021",
@@ -1506,8 +1324,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -1523,8 +1339,6 @@
 	},
 	"La Calera": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"26-10-2020",
@@ -1538,8 +1352,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -1555,8 +1367,6 @@
 	},
 	"Calle Larga": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-03-2021",
 			"08-04-2021",
@@ -1569,8 +1379,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1585,8 +1393,6 @@
 	},
 	"Cartagena": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"27-03-2021",
@@ -1600,8 +1406,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1617,8 +1421,6 @@
 	},
 	"Casablanca": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-01-2021",
 			"22-02-2021",
@@ -1632,8 +1434,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -1649,8 +1449,6 @@
 	},
 	"Catemu": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"20-02-2021",
 			"13-03-2021",
@@ -1666,8 +1464,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1685,8 +1481,6 @@
 	},
 	"Concón": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-12-2020",
 			"11-02-2021",
@@ -1701,8 +1495,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -1719,8 +1511,6 @@
 	},
 	"El Quisco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"13-03-2021",
@@ -1734,8 +1524,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1751,8 +1539,6 @@
 	},
 	"El Tabo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"01-04-2021",
@@ -1766,8 +1552,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1783,8 +1567,6 @@
 	},
 	"Hijuelas": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"08-04-2021",
@@ -1795,8 +1577,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1809,15 +1589,11 @@
 	},
 	"Isla de Pascua": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			4
@@ -1825,15 +1601,11 @@
 	},
 	"Juan Fernández": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			4
@@ -1841,8 +1613,6 @@
 	},
 	"La Cruz": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"26-10-2020",
@@ -1854,8 +1624,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -1869,8 +1637,6 @@
 	},
 	"La Ligua": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-01-2021",
 			"25-01-2021",
@@ -1885,8 +1651,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -1903,8 +1667,6 @@
 	},
 	"Limache": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-03-2021",
 			"25-03-2021",
@@ -1914,8 +1676,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1927,8 +1687,6 @@
 	},
 	"Llay-Llay": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-03-2021",
 			"27-03-2021",
@@ -1944,8 +1702,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -1963,8 +1719,6 @@
 	},
 	"Los Andes": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"02-09-2020",
@@ -1978,8 +1732,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -1995,8 +1747,6 @@
 	},
 	"Nogales": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"20-03-2021",
@@ -2008,8 +1758,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2023,8 +1771,6 @@
 	},
 	"Olmué": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"01-03-2021",
@@ -2039,8 +1785,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2057,8 +1801,6 @@
 	},
 	"Panquehue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"08-04-2021",
 			"15-07-2021",
@@ -2068,8 +1810,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2081,8 +1821,6 @@
 	},
 	"Papudo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-02-2021",
 			"11-03-2021",
@@ -2098,8 +1836,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2117,8 +1853,6 @@
 	},
 	"Petorca": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"18-02-2021",
@@ -2132,8 +1866,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2149,8 +1881,6 @@
 	},
 	"Puchuncaví": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-03-2021",
 			"01-04-2021",
@@ -2164,8 +1894,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2181,8 +1909,6 @@
 	},
 	"Putaendo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-03-2021",
 			"08-04-2021",
@@ -2197,8 +1923,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2215,8 +1939,6 @@
 	},
 	"Quillota": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-09-2020",
 			"13-10-2020",
@@ -2229,8 +1951,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2245,8 +1965,6 @@
 	},
 	"Quilpué": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-01-2021",
 			"11-02-2021",
@@ -2259,8 +1977,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2275,8 +1991,6 @@
 	},
 	"Quintero": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"20-02-2021",
 			"03-04-2021",
@@ -2289,8 +2003,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2305,8 +2017,6 @@
 	},
 	"Rinconada": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"18-03-2021",
@@ -2318,8 +2028,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2333,8 +2041,6 @@
 	},
 	"San Antonio": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"19-10-2020",
 			"04-01-2021",
@@ -2351,8 +2057,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			2,
@@ -2371,8 +2075,6 @@
 	},
 	"San Esteban": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"01-04-2021",
 			"15-04-2021",
@@ -2388,8 +2090,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2407,8 +2107,6 @@
 	},
 	"San Felipe": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"06-03-2021",
@@ -2421,8 +2119,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			2,
@@ -2437,8 +2133,6 @@
 	},
 	"Santa Maria": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"27-03-2021",
 			"08-04-2021",
@@ -2448,8 +2142,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2461,8 +2153,6 @@
 	},
 	"Santo Domingo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-03-2021",
 			"03-04-2021",
@@ -2476,8 +2166,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -2493,8 +2181,6 @@
 	},
 	"Valparaiso": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-10-2020",
 			"05-11-2020",
@@ -2507,8 +2193,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2523,8 +2207,6 @@
 	},
 	"Villa Alemana": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-01-2021",
 			"11-02-2021",
@@ -2536,8 +2218,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2551,8 +2231,6 @@
 	},
 	"Viña del Mar": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-10-2020",
 			"05-11-2020",
@@ -2565,8 +2243,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2581,8 +2257,6 @@
 	},
 	"Zapallar": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"08-02-2021",
@@ -2597,8 +2271,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -2615,8 +2287,6 @@
 	},
 	"Alhué": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"26-10-2020",
 			"10-12-2020",
@@ -2635,8 +2305,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -2657,8 +2325,6 @@
 	},
 	"Buin": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"05-11-2020",
@@ -2676,8 +2342,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2697,8 +2361,6 @@
 	},
 	"Calera de Tango": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"28-09-2020",
@@ -2714,8 +2376,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2733,8 +2393,6 @@
 	},
 	"Cerrillos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"05-10-2020",
@@ -2752,8 +2410,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2773,8 +2429,6 @@
 	},
 	"Cerro Navia": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"26-10-2020",
@@ -2789,8 +2443,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2807,8 +2459,6 @@
 	},
 	"Colina": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"05-10-2020",
 			"19-10-2020",
@@ -2827,8 +2477,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			4,
@@ -2849,8 +2497,6 @@
 	},
 	"Conchalí": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"05-11-2020",
@@ -2865,8 +2511,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2883,8 +2527,6 @@
 	},
 	"Curacaví": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"05-10-2020",
@@ -2903,8 +2545,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2925,8 +2565,6 @@
 	},
 	"El Bosque": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-09-2020",
 			"05-10-2020",
@@ -2939,8 +2577,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2955,8 +2591,6 @@
 	},
 	"El Monte": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"19-10-2020",
@@ -2972,8 +2606,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -2991,8 +2623,6 @@
 	},
 	"Estación Central": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-08-2020",
 			"28-09-2020",
@@ -3008,8 +2638,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3027,8 +2655,6 @@
 	},
 	"Huechuraba": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"05-10-2020",
@@ -3045,8 +2671,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3065,8 +2689,6 @@
 	},
 	"Independencia": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-09-2020",
 			"02-11-2020",
@@ -3084,8 +2706,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3105,8 +2725,6 @@
 	},
 	"Isla de Maipo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-09-2020",
 			"28-09-2020",
@@ -3127,8 +2745,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3151,8 +2767,6 @@
 	},
 	"La Cisterna": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-09-2020",
 			"16-11-2020",
@@ -3165,8 +2779,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3181,8 +2793,6 @@
 	},
 	"La Florida": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"26-10-2020",
@@ -3197,8 +2807,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3215,8 +2823,6 @@
 	},
 	"La Granja": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-09-2020",
 			"05-11-2020",
@@ -3231,8 +2837,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3249,8 +2853,6 @@
 	},
 	"La Pintana": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"05-11-2020",
@@ -3267,8 +2869,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3287,8 +2887,6 @@
 	},
 	"La Reina": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-09-2020",
 			"09-11-2020",
@@ -3305,8 +2903,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			4,
@@ -3325,8 +2921,6 @@
 	},
 	"Lampa": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"28-09-2020",
@@ -3342,8 +2936,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3361,8 +2953,6 @@
 	},
 	"Las Condes": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"16-11-2020",
@@ -3380,8 +2970,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			4,
@@ -3401,8 +2989,6 @@
 	},
 	"Lo Barnechea": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"10-12-2020",
@@ -3418,8 +3004,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			2,
@@ -3437,8 +3021,6 @@
 	},
 	"Lo Espejo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"19-10-2020",
@@ -3453,8 +3035,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3471,8 +3051,6 @@
 	},
 	"Lo Prado": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"16-11-2020",
@@ -3485,8 +3063,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3501,8 +3077,6 @@
 	},
 	"Macul": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"26-10-2020",
@@ -3520,8 +3094,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3541,8 +3113,6 @@
 	},
 	"Maipú": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"19-10-2020",
@@ -3560,8 +3130,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3581,8 +3149,6 @@
 	},
 	"María Pinto": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"01-08-2020",
 			"05-10-2020",
@@ -3602,8 +3168,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -3625,8 +3189,6 @@
 	},
 	"Melipilla": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"19-10-2020",
@@ -3645,8 +3207,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3667,8 +3227,6 @@
 	},
 	"Ñuñoa": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"02-11-2020",
@@ -3685,8 +3243,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			4,
@@ -3705,8 +3261,6 @@
 	},
 	"Padre Hurtado": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"28-09-2020",
@@ -3724,8 +3278,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3745,8 +3297,6 @@
 	},
 	"Paine": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"03-10-2020",
@@ -3765,8 +3315,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -3787,8 +3335,6 @@
 	},
 	"Pedro Aguirre Cerda": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"28-09-2020",
@@ -3801,8 +3347,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3817,8 +3361,6 @@
 	},
 	"Peñaflor": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"26-10-2020",
@@ -3836,8 +3378,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3857,8 +3397,6 @@
 	},
 	"Peñalolén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"28-09-2020",
@@ -3874,8 +3412,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3893,8 +3429,6 @@
 	},
 	"Pirque": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"19-10-2020",
 			"10-12-2020",
@@ -3908,8 +3442,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -3925,8 +3457,6 @@
 	},
 	"Providencia": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"02-09-2020",
@@ -3944,8 +3474,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3965,8 +3493,6 @@
 	},
 	"Pudahuel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-09-2020",
 			"26-10-2020",
@@ -3981,8 +3507,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -3999,8 +3523,6 @@
 	},
 	"Puente Alto": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"05-11-2020",
@@ -4015,8 +3537,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4033,8 +3553,6 @@
 	},
 	"Quilicura": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-09-2020",
 			"28-09-2020",
@@ -4052,8 +3570,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4073,8 +3589,6 @@
 	},
 	"Quinta Normal": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"05-10-2020",
@@ -4087,8 +3601,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4103,8 +3615,6 @@
 	},
 	"Recoleta": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-09-2020",
 			"05-10-2020",
@@ -4124,8 +3634,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4147,8 +3655,6 @@
 	},
 	"Renca": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"19-10-2020",
@@ -4164,8 +3670,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4183,8 +3687,6 @@
 	},
 	"San Bernardo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-09-2020",
 			"19-10-2020",
@@ -4200,8 +3702,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4219,8 +3719,6 @@
 	},
 	"San Joaquín": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-09-2020",
 			"19-10-2020",
@@ -4235,8 +3733,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4253,8 +3749,6 @@
 	},
 	"San José de Maipo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"02-09-2020",
@@ -4270,8 +3764,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4289,8 +3781,6 @@
 	},
 	"San Miguel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-09-2020",
 			"05-11-2020",
@@ -4303,8 +3793,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4319,8 +3807,6 @@
 	},
 	"San Pedro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"19-10-2020",
 			"10-12-2020",
@@ -4336,8 +3822,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -4355,8 +3839,6 @@
 	},
 	"San Ramón": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-09-2020",
 			"05-11-2020",
@@ -4371,8 +3853,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4389,8 +3869,6 @@
 	},
 	"Santiago": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-08-2020",
 			"28-09-2020",
@@ -4409,8 +3887,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4431,8 +3907,6 @@
 	},
 	"Talagante": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-08-2020",
 			"28-09-2020",
@@ -4451,8 +3925,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4473,8 +3945,6 @@
 	},
 	"Til Til": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-09-2020",
 			"19-10-2020",
@@ -4495,8 +3965,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			4,
@@ -4519,8 +3987,6 @@
 	},
 	"Vitacura": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"26-10-2020",
@@ -4538,8 +4004,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			2,
 			3,
 			4,
@@ -4559,8 +4023,6 @@
 	},
 	"Chépica": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"01-02-2021",
@@ -4574,8 +4036,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4591,8 +4051,6 @@
 	},
 	"Chimbarongo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"20-03-2021",
@@ -4604,8 +4062,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -4619,8 +4075,6 @@
 	},
 	"Codegua": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-03-2021",
 			"03-04-2021",
@@ -4632,8 +4086,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -4647,8 +4099,6 @@
 	},
 	"Coinco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"18-02-2021",
@@ -4660,8 +4110,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4675,8 +4123,6 @@
 	},
 	"Coltauco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-01-2021",
 			"18-02-2021",
@@ -4688,8 +4134,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4703,8 +4147,6 @@
 	},
 	"Doñihue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-02-2021",
 			"08-07-2021",
@@ -4714,8 +4156,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4727,8 +4167,6 @@
 	},
 	"Graneros": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"02-11-2020",
@@ -4744,8 +4182,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4763,8 +4199,6 @@
 	},
 	"La Estrella": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"15-04-2021",
@@ -4776,8 +4210,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -4791,8 +4223,6 @@
 	},
 	"Las Cabras": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"04-03-2021",
@@ -4805,8 +4235,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -4821,8 +4249,6 @@
 	},
 	"Litueche": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"27-03-2021",
@@ -4833,8 +4259,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -4847,8 +4271,6 @@
 	},
 	"Lolol": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-03-2021",
 			"29-03-2021",
@@ -4858,8 +4280,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4871,8 +4291,6 @@
 	},
 	"Machalí": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"02-11-2020",
@@ -4886,8 +4304,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -4903,8 +4319,6 @@
 	},
 	"Malloa": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"25-02-2021",
@@ -4918,8 +4332,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4935,8 +4347,6 @@
 	},
 	"Marchihue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"04-03-2021",
@@ -4948,8 +4358,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4963,8 +4371,6 @@
 	},
 	"Mostazal": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"25-02-2021",
@@ -4978,8 +4384,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -4995,8 +4399,6 @@
 	},
 	"Nancagua": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"18-02-2021",
@@ -5009,8 +4411,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5025,8 +4425,6 @@
 	},
 	"Navidad": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"13-03-2021",
@@ -5043,8 +4441,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5063,8 +4459,6 @@
 	},
 	"Olivar": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-01-2021",
 			"18-02-2021",
@@ -5078,8 +4472,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5095,8 +4487,6 @@
 	},
 	"Palmilla": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-02-2021",
 			"06-03-2021",
@@ -5106,8 +4496,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5119,8 +4507,6 @@
 	},
 	"Paredones": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"25-02-2021",
@@ -5138,8 +4524,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5159,8 +4543,6 @@
 	},
 	"Peralillo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"22-03-2021",
@@ -5172,8 +4554,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5187,8 +4567,6 @@
 	},
 	"Peumo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-01-2021",
 			"18-03-2021",
@@ -5202,8 +4580,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5219,8 +4595,6 @@
 	},
 	"Pichidegua": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"05-11-2020",
@@ -5239,8 +4613,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -5261,8 +4633,6 @@
 	},
 	"Pichilemu": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"30-01-2021",
 			"04-03-2021",
@@ -5276,8 +4646,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5293,8 +4661,6 @@
 	},
 	"Placilla": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"27-03-2021",
@@ -5306,8 +4672,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5321,8 +4685,6 @@
 	},
 	"Pumanque": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"22-02-2021",
@@ -5334,8 +4696,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5349,8 +4709,6 @@
 	},
 	"Quinta de Tilcoco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-01-2021",
 			"01-03-2021",
@@ -5362,8 +4720,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5377,8 +4733,6 @@
 	},
 	"Rancagua": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-08-2020",
 			"02-11-2020",
@@ -5394,8 +4748,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -5413,8 +4765,6 @@
 	},
 	"Rengo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"05-11-2020",
@@ -5430,8 +4780,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -5449,8 +4797,6 @@
 	},
 	"Requínoa": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-01-2021",
 			"25-02-2021",
@@ -5462,8 +4808,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5477,8 +4821,6 @@
 	},
 	"San Fernando": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"16-11-2020",
@@ -5492,8 +4834,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5509,8 +4849,6 @@
 	},
 	"San Vicente": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-08-2020",
 			"08-10-2020",
@@ -5526,8 +4864,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -5545,8 +4881,6 @@
 	},
 	"Santa Cruz": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"03-10-2020",
@@ -5563,8 +4897,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -5583,8 +4915,6 @@
 	},
 	"Cauquenes": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-03-2021",
 			"03-04-2021",
@@ -5596,8 +4926,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5611,8 +4939,6 @@
 	},
 	"Chanco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"18-03-2021",
@@ -5626,8 +4952,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5643,8 +4967,6 @@
 	},
 	"Colbún": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-01-2021",
 			"11-03-2021",
@@ -5657,8 +4979,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5673,8 +4993,6 @@
 	},
 	"Constitución": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"28-01-2021",
@@ -5688,8 +5006,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5705,8 +5021,6 @@
 	},
 	"Curepto": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"04-03-2021",
@@ -5721,8 +5035,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5739,8 +5051,6 @@
 	},
 	"Curicó": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-08-2020",
 			"09-11-2020",
@@ -5755,8 +5065,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			1,
 			2,
 			3,
@@ -5773,8 +5081,6 @@
 	},
 	"Empedrado": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"11-02-2021",
@@ -5787,8 +5093,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -5803,8 +5107,6 @@
 	},
 	"Hualañé": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"11-03-2021",
@@ -5824,8 +5126,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5847,8 +5147,6 @@
 	},
 	"Licantén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"13-10-2020",
@@ -5869,8 +5167,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -5893,8 +5189,6 @@
 	},
 	"Linares": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-08-2020",
 			"28-09-2020",
@@ -5908,8 +5202,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -5925,8 +5217,6 @@
 	},
 	"Longaví": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"19-10-2020",
@@ -5942,8 +5232,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -5961,8 +5249,6 @@
 	},
 	"Maule": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"12-11-2020",
@@ -5979,8 +5265,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -5999,8 +5283,6 @@
 	},
 	"Molina": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"19-10-2020",
@@ -6017,8 +5299,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -6037,8 +5317,6 @@
 	},
 	"Parral": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-11-2020",
 			"14-12-2020",
@@ -6055,8 +5333,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6075,8 +5351,6 @@
 	},
 	"Pelarco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-01-2021",
 			"08-02-2021",
@@ -6094,8 +5368,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6115,8 +5387,6 @@
 	},
 	"Pelluhue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-02-2021",
 			"01-04-2021",
@@ -6131,8 +5401,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6149,8 +5417,6 @@
 	},
 	"Pencahue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"18-02-2021",
@@ -6168,8 +5434,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6189,8 +5453,6 @@
 	},
 	"Rauco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-01-2021",
 			"18-02-2021",
@@ -6204,8 +5466,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6221,8 +5481,6 @@
 	},
 	"Retiro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"22-03-2021",
@@ -6241,8 +5499,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6263,8 +5519,6 @@
 	},
 	"Río Claro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"18-03-2021",
@@ -6278,8 +5532,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6295,8 +5547,6 @@
 	},
 	"Romeral": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"19-12-2020",
 			"04-01-2021",
@@ -6313,8 +5563,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6333,8 +5581,6 @@
 	},
 	"Sagrada Familia": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"22-02-2021",
@@ -6347,8 +5593,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6363,8 +5607,6 @@
 	},
 	"San Clemente": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"13-10-2020",
@@ -6382,8 +5624,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -6403,8 +5643,6 @@
 	},
 	"San Javier": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"23-11-2020",
@@ -6419,8 +5657,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6437,8 +5673,6 @@
 	},
 	"San Rafael": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"11-03-2021",
@@ -6450,8 +5684,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6465,8 +5697,6 @@
 	},
 	"Talca": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"12-11-2020",
@@ -6482,8 +5712,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6501,8 +5729,6 @@
 	},
 	"Teno": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"26-10-2020",
@@ -6521,8 +5747,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6543,8 +5767,6 @@
 	},
 	"Vichuquén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"11-02-2021",
@@ -6561,8 +5783,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6581,8 +5801,6 @@
 	},
 	"Villa Alegre": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-03-2021",
 			"08-04-2021",
@@ -6595,8 +5813,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6611,8 +5827,6 @@
 	},
 	"Yerbas Buenas": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"04-02-2021",
@@ -6626,8 +5840,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6643,8 +5855,6 @@
 	},
 	"Bulnes": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"22-03-2021",
@@ -6656,8 +5866,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6671,8 +5879,6 @@
 	},
 	"Chillán": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"03-10-2020",
@@ -6686,8 +5892,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -6703,8 +5907,6 @@
 	},
 	"Chillán Viejo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"03-10-2020",
@@ -6718,8 +5920,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -6735,8 +5935,6 @@
 	},
 	"Cobquecura": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-03-2021",
 			"03-04-2021",
@@ -6748,8 +5946,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6763,8 +5959,6 @@
 	},
 	"Coelemu": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"11-03-2021",
@@ -6774,8 +5968,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6787,8 +5979,6 @@
 	},
 	"Coihueco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"26-10-2020",
@@ -6803,8 +5993,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -6821,8 +6009,6 @@
 	},
 	"El Carmen": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-03-2021",
 			"29-04-2021",
@@ -6832,8 +6018,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6845,8 +6029,6 @@
 	},
 	"Ninhue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"29-03-2021",
@@ -6860,8 +6042,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6877,8 +6057,6 @@
 	},
 	"Ñiquén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"04-03-2021",
@@ -6892,8 +6070,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6909,8 +6085,6 @@
 	},
 	"Pemuco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-04-2021",
 			"29-04-2021",
@@ -6920,8 +6094,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6933,8 +6105,6 @@
 	},
 	"Pinto": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-02-2021",
 			"25-03-2021",
@@ -6944,8 +6114,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -6957,8 +6125,6 @@
 	},
 	"Portezuelo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-02-2021",
 			"11-03-2021",
@@ -6970,8 +6136,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -6985,8 +6149,6 @@
 	},
 	"Quillón": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-11-2020",
 			"14-12-2020",
@@ -7002,8 +6164,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7021,8 +6181,6 @@
 	},
 	"Quirihue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"30-01-2021",
 			"01-03-2021",
@@ -7034,8 +6192,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7049,8 +6205,6 @@
 	},
 	"Ránquil": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"29-04-2021",
@@ -7060,8 +6214,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7073,8 +6225,6 @@
 	},
 	"San Carlos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"28-01-2021",
@@ -7087,8 +6237,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7103,8 +6251,6 @@
 	},
 	"San Fabián": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"08-04-2021",
@@ -7116,8 +6262,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7131,8 +6275,6 @@
 	},
 	"San Ignacio": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-02-2021",
 			"20-03-2021",
@@ -7144,8 +6286,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7159,8 +6299,6 @@
 	},
 	"San Nicolás": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-02-2021",
 			"10-04-2021",
@@ -7171,8 +6309,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7185,8 +6321,6 @@
 	},
 	"Trehuaco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-02-2021",
 			"18-03-2021",
@@ -7198,8 +6332,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7213,8 +6345,6 @@
 	},
 	"Yungay": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"13-02-2021",
 			"04-03-2021",
@@ -7226,8 +6356,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7241,8 +6369,6 @@
 	},
 	"Alto Biobío": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"15-04-2021",
 			"29-04-2021",
@@ -7254,8 +6380,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7269,8 +6393,6 @@
 	},
 	"Antuco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"15-04-2021",
 			"10-06-2021",
@@ -7281,8 +6403,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7295,8 +6415,6 @@
 	},
 	"Arauco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"10-12-2020",
@@ -7309,8 +6427,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7325,8 +6441,6 @@
 	},
 	"Cabrero": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"26-11-2020",
@@ -7342,8 +6456,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7361,8 +6473,6 @@
 	},
 	"Cañete": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-10-2020",
 			"17-10-2020",
@@ -7379,8 +6489,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7399,8 +6507,6 @@
 	},
 	"Chiguayante": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"28-08-2020",
 			"19-10-2020",
@@ -7414,8 +6520,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7431,8 +6535,6 @@
 	},
 	"Concepción": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-08-2020",
 			"28-08-2020",
@@ -7447,8 +6549,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7465,8 +6565,6 @@
 	},
 	"Contulmo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-02-2021",
 			"04-03-2021",
@@ -7484,8 +6582,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7505,8 +6601,6 @@
 	},
 	"Coronel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"30-11-2020",
@@ -7520,8 +6614,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7537,8 +6629,6 @@
 	},
 	"Curanilahue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"05-11-2020",
@@ -7552,8 +6642,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7569,8 +6657,6 @@
 	},
 	"Florida": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-12-2020",
 			"01-02-2021",
@@ -7589,8 +6675,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7611,8 +6695,6 @@
 	},
 	"Hualpén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-08-2020",
 			"28-08-2020",
@@ -7627,8 +6709,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7645,8 +6725,6 @@
 	},
 	"Hualqui": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"02-09-2020",
 			"13-10-2020",
@@ -7660,8 +6738,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7677,8 +6753,6 @@
 	},
 	"Laja": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"16-11-2020",
@@ -7694,8 +6768,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -7713,8 +6785,6 @@
 	},
 	"Lebu": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"12-11-2020",
@@ -7733,8 +6803,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7755,8 +6823,6 @@
 	},
 	"Los Álamos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"05-11-2020",
@@ -7774,8 +6840,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7795,8 +6859,6 @@
 	},
 	"Los Ángeles": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-11-2020",
 			"12-12-2020",
@@ -7813,8 +6875,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7833,8 +6893,6 @@
 	},
 	"Lota": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"30-11-2020",
@@ -7847,8 +6905,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -7863,8 +6919,6 @@
 	},
 	"Mulchén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-01-2021",
 			"21-01-2021",
@@ -7879,8 +6933,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7897,8 +6949,6 @@
 	},
 	"Nacimiento": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-11-2020",
 			"21-01-2021",
@@ -7914,8 +6964,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7933,8 +6981,6 @@
 	},
 	"Negrete": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-12-2020",
 			"21-01-2021",
@@ -7949,8 +6995,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -7967,8 +7011,6 @@
 	},
 	"Penco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-08-2020",
 			"19-10-2020",
@@ -7987,8 +7029,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -8009,8 +7049,6 @@
 	},
 	"Quilaco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"08-04-2021",
 			"01-05-2021",
@@ -8023,8 +7061,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -8039,8 +7075,6 @@
 	},
 	"Quilleco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"18-03-2021",
@@ -8054,8 +7088,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -8071,8 +7103,6 @@
 	},
 	"San Pedro de la Paz": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"19-10-2020",
@@ -8086,8 +7116,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -8103,8 +7131,6 @@
 	},
 	"San Rosendo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"16-11-2020",
@@ -8128,8 +7154,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -8155,8 +7179,6 @@
 	},
 	"Santa Bárbara": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"30-01-2021",
 			"25-02-2021",
@@ -8171,8 +7193,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -8189,8 +7209,6 @@
 	},
 	"Santa Juana": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-11-2020",
 			"21-12-2020",
@@ -8206,8 +7224,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -8225,8 +7241,6 @@
 	},
 	"Talcahuano": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-08-2020",
 			"28-08-2020",
@@ -8241,8 +7255,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -8259,8 +7271,6 @@
 	},
 	"Tirúa": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"12-12-2020",
 			"23-01-2021",
@@ -8276,8 +7286,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -8295,8 +7303,6 @@
 	},
 	"Tomé": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-08-2020",
 			"09-11-2020",
@@ -8310,8 +7316,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -8327,8 +7331,6 @@
 	},
 	"Tucapel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-02-2021",
 			"08-03-2021",
@@ -8342,8 +7344,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -8359,8 +7359,6 @@
 	},
 	"Yumbel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"30-11-2020",
@@ -8377,8 +7375,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -8397,8 +7393,6 @@
 	},
 	"Angol": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"10-12-2020",
@@ -8414,8 +7408,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8433,8 +7425,6 @@
 	},
 	"Carahue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"16-11-2020",
@@ -8449,8 +7439,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -8467,8 +7455,6 @@
 	},
 	"Cholchol": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"14-11-2020",
@@ -8482,8 +7468,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8499,8 +7483,6 @@
 	},
 	"Collipulli": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-10-2020",
 			"21-12-2020",
@@ -8514,8 +7496,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -8531,8 +7511,6 @@
 	},
 	"Cunco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"30-11-2020",
@@ -8548,8 +7526,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -8567,8 +7543,6 @@
 	},
 	"Curacautín": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-11-2020",
 			"30-11-2020",
@@ -8584,8 +7558,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -8603,8 +7575,6 @@
 	},
 	"Curarrehue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-12-2020",
 			"23-12-2020",
@@ -8621,8 +7591,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -8641,8 +7609,6 @@
 	},
 	"Ercilla": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-09-2020",
 			"26-10-2020",
@@ -8655,8 +7621,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -8671,8 +7635,6 @@
 	},
 	"Freire": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"31-10-2020",
@@ -8688,8 +7650,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8707,8 +7667,6 @@
 	},
 	"Galvarino": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"17-10-2020",
@@ -8724,8 +7682,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8743,8 +7699,6 @@
 	},
 	"Gorbea": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"30-11-2020",
@@ -8760,8 +7714,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -8779,8 +7731,6 @@
 	},
 	"Lautaro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"07-11-2020",
@@ -8794,8 +7744,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8811,8 +7759,6 @@
 	},
 	"Loncoche": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"26-10-2020",
@@ -8827,8 +7773,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -8845,8 +7789,6 @@
 	},
 	"Lonquimay": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-09-2020",
 			"13-10-2020",
@@ -8865,8 +7807,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -8887,8 +7827,6 @@
 	},
 	"Los Sauces": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-11-2020",
 			"10-12-2020",
@@ -8904,8 +7842,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8923,8 +7859,6 @@
 	},
 	"Lumaco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"19-12-2020",
 			"23-01-2021",
@@ -8940,8 +7874,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -8959,8 +7891,6 @@
 	},
 	"Melipeuco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-11-2020",
 			"30-11-2020",
@@ -8980,8 +7910,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9003,8 +7931,6 @@
 	},
 	"Nueva Imperial": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"30-11-2020",
@@ -9018,8 +7944,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9035,8 +7959,6 @@
 	},
 	"Padre Las Casas": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"31-10-2020",
@@ -9048,8 +7970,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9063,8 +7983,6 @@
 	},
 	"Perquenco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"04-02-2021",
@@ -9078,8 +7996,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9095,8 +8011,6 @@
 	},
 	"Pitrufquén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"19-11-2020",
@@ -9112,8 +8026,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9131,8 +8043,6 @@
 	},
 	"Pucón": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-10-2020",
 			"09-11-2020",
@@ -9151,8 +8061,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9173,8 +8081,6 @@
 	},
 	"Purén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"16-01-2021",
 			"28-01-2021",
@@ -9190,8 +8096,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			3,
 			2,
@@ -9209,8 +8113,6 @@
 	},
 	"Renaico": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"17-10-2020",
@@ -9230,8 +8132,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9253,8 +8153,6 @@
 	},
 	"Saavedra": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"09-11-2020",
@@ -9269,8 +8167,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -9287,8 +8183,6 @@
 	},
 	"Temuco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"31-10-2020",
@@ -9302,8 +8196,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9319,8 +8211,6 @@
 	},
 	"Teodoro Schmidt": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-09-2020",
 			"26-10-2020",
@@ -9340,8 +8230,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -9363,8 +8251,6 @@
 	},
 	"Toltén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-11-2020",
 			"21-12-2020",
@@ -9379,8 +8265,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9397,8 +8281,6 @@
 	},
 	"Traiguén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-11-2020",
 			"14-11-2020",
@@ -9414,8 +8296,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9433,8 +8313,6 @@
 	},
 	"Victoria": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"30-11-2020",
@@ -9448,8 +8326,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9465,8 +8341,6 @@
 	},
 	"Vilcún": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"31-10-2020",
@@ -9480,8 +8354,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9497,8 +8369,6 @@
 	},
 	"Villarrica": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"08-10-2020",
@@ -9515,8 +8385,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9535,8 +8403,6 @@
 	},
 	"Corral": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"12-11-2020",
@@ -9549,8 +8415,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9565,8 +8429,6 @@
 	},
 	"Futrono": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-11-2020",
 			"14-12-2020",
@@ -9584,8 +8446,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -9605,8 +8465,6 @@
 	},
 	"La Unión": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"31-10-2020",
@@ -9622,8 +8480,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9641,8 +8497,6 @@
 	},
 	"Lago Ranco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"30-11-2020",
@@ -9661,8 +8515,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -9683,8 +8535,6 @@
 	},
 	"Lanco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-09-2020",
 			"04-01-2021",
@@ -9700,8 +8550,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9719,8 +8567,6 @@
 	},
 	"Los Lagos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"14-11-2020",
@@ -9734,8 +8580,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9751,8 +8595,6 @@
 	},
 	"Máfil": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-01-2021",
 			"04-03-2021",
@@ -9767,8 +8609,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9785,8 +8625,6 @@
 	},
 	"Mariquina": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"05-11-2020",
@@ -9801,8 +8639,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9819,8 +8655,6 @@
 	},
 	"Paillaco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"02-11-2020",
@@ -9840,8 +8674,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9863,8 +8695,6 @@
 	},
 	"Panguipulli": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-09-2020",
 			"19-10-2020",
@@ -9881,8 +8711,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -9901,8 +8729,6 @@
 	},
 	"Río Bueno": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"12-12-2020",
@@ -9919,8 +8745,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9939,8 +8763,6 @@
 	},
 	"Valdivia": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"07-11-2020",
@@ -9954,8 +8776,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -9971,8 +8791,6 @@
 	},
 	"Ancud": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"21-11-2020",
@@ -9988,8 +8806,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10007,8 +8823,6 @@
 	},
 	"Calbuco": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-10-2020",
 			"31-10-2020",
@@ -10025,8 +8839,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10045,8 +8857,6 @@
 	},
 	"Castro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"21-12-2020",
@@ -10061,8 +8871,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -10079,8 +8887,6 @@
 	},
 	"Chaitén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-12-2020",
 			"30-01-2021",
@@ -10096,8 +8902,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -10115,8 +8919,6 @@
 	},
 	"Chonchi": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"21-12-2020",
@@ -10130,8 +8932,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10147,8 +8947,6 @@
 	},
 	"Cochamó": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-01-2021",
 			"25-02-2021",
@@ -10162,8 +8960,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -10179,8 +8975,6 @@
 	},
 	"Curaco de Vélez": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"26-11-2020",
 			"07-12-2020",
@@ -10194,8 +8988,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -10211,8 +9003,6 @@
 	},
 	"Dalcahue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"14-01-2021",
@@ -10226,8 +9016,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10243,8 +9031,6 @@
 	},
 	"Fresia": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-10-2020",
 			"05-11-2020",
@@ -10263,8 +9049,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10285,8 +9069,6 @@
 	},
 	"Frutillar": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"05-11-2020",
@@ -10301,8 +9083,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10319,8 +9099,6 @@
 	},
 	"Futaleufú": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-12-2020",
 			"30-01-2021",
@@ -10335,8 +9113,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -10353,8 +9129,6 @@
 	},
 	"Hualaihué": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"30-11-2020",
@@ -10376,8 +9150,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10401,8 +9173,6 @@
 	},
 	"Llanquihue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-01-2021",
 			"21-01-2021",
@@ -10421,8 +9191,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10443,8 +9211,6 @@
 	},
 	"Los Muermos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-10-2020",
 			"07-12-2020",
@@ -10457,8 +9223,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10473,8 +9237,6 @@
 	},
 	"Maullín": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-09-2020",
 			"13-10-2020",
@@ -10487,8 +9249,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10503,8 +9263,6 @@
 	},
 	"Osorno": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"30-11-2020",
@@ -10519,8 +9277,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10537,8 +9293,6 @@
 	},
 	"Palena": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"23-12-2020",
 			"30-01-2021",
@@ -10556,8 +9310,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			2,
@@ -10577,8 +9329,6 @@
 	},
 	"Puerto Montt": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"29-07-2020",
 			"07-12-2020",
@@ -10590,8 +9340,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10605,8 +9353,6 @@
 	},
 	"Puerto Octay": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-01-2021",
 			"21-01-2021",
@@ -10625,8 +9371,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10647,8 +9391,6 @@
 	},
 	"Puerto Varas": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"21-11-2020",
 			"14-01-2021",
@@ -10661,8 +9403,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10677,8 +9417,6 @@
 	},
 	"Puqueldón": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"14-11-2020",
 			"21-11-2020",
@@ -10698,8 +9436,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10721,8 +9457,6 @@
 	},
 	"Purranque": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"17-10-2020",
 			"16-11-2020",
@@ -10737,8 +9471,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10755,8 +9487,6 @@
 	},
 	"Puyehue": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-01-2021",
 			"23-01-2021",
@@ -10772,8 +9502,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10791,8 +9519,6 @@
 	},
 	"Queilén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"21-11-2020",
@@ -10801,11 +9527,10 @@
 			"27-05-2021",
 			"31-07-2021",
 			"18-08-2021",
+			"24-11-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10814,13 +9539,12 @@
 			2,
 			3,
 			4,
-			4
+			3,
+			3
 		]
 	},
 	"Quellón": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"12-11-2020",
@@ -10834,8 +9558,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			3,
@@ -10851,8 +9573,6 @@
 	},
 	"Quemchi": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"31-10-2020",
 			"21-11-2020",
@@ -10868,8 +9588,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10887,8 +9605,6 @@
 	},
 	"Quinchao": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"26-11-2020",
 			"04-02-2021",
@@ -10903,8 +9619,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -10921,8 +9635,6 @@
 	},
 	"Río Negro": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"16-11-2020",
@@ -10940,8 +9652,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10961,8 +9671,6 @@
 	},
 	"San Juan de la Costa": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"03-10-2020",
 			"16-11-2020",
@@ -10978,8 +9686,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -10997,8 +9703,6 @@
 	},
 	"San Pablo": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"09-01-2021",
 			"28-01-2021",
@@ -11016,8 +9720,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -11037,8 +9739,6 @@
 	},
 	"Aysén": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"18-02-2021",
 			"04-03-2021",
@@ -11051,8 +9751,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			3,
 			4,
@@ -11067,8 +9765,6 @@
 	},
 	"Chile Chico": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"30-12-2020",
 			"04-02-2021",
@@ -11087,8 +9783,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -11109,8 +9803,6 @@
 	},
 	"Cisnes": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"15-04-2021",
 			"01-05-2021",
@@ -11123,8 +9815,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			1,
@@ -11139,8 +9829,6 @@
 	},
 	"Cochrane": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"30-12-2020",
 			"25-01-2021",
@@ -11154,8 +9842,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -11171,8 +9857,6 @@
 	},
 	"Coyhaique": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-09-2020",
 			"12-11-2020",
@@ -11191,8 +9875,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			1,
 			2,
@@ -11213,8 +9895,6 @@
 	},
 	"Guaitecas": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"01-04-2021",
 			"08-04-2021",
@@ -11227,8 +9907,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			3,
 			2,
@@ -11243,16 +9921,12 @@
 	},
 	"Lago Verde": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"27-05-2021",
 			"05-07-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			3,
 			4,
@@ -11261,22 +9935,16 @@
 	},
 	"O'Higgins": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			4
 		]
 	},
 	"Río Ibáñez": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"15-04-2021",
 			"03-05-2021",
@@ -11288,8 +9956,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			2,
 			3,
@@ -11303,16 +9969,12 @@
 	},
 	"Tortel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"05-06-2021",
 			"15-07-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			4,
 			3,
 			4,
@@ -11321,16 +9983,12 @@
 	},
 	"Antártica": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"06-10-2021",
 			"03-11-2021",
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			5,
 			4,
@@ -11339,8 +9997,6 @@
 	},
 	"Cabo de Hornos": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"10-12-2020",
 			"04-01-2021",
@@ -11353,8 +10009,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -11369,8 +10023,6 @@
 	},
 	"Laguna Blanca": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-02-2021",
 			"13-05-2021",
@@ -11380,8 +10032,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			3,
@@ -11393,8 +10043,6 @@
 	},
 	"Natales": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"04-01-2021",
@@ -11409,8 +10057,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -11427,8 +10073,6 @@
 	},
 	"Porvenir": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"11-09-2020",
 			"19-11-2020",
@@ -11444,8 +10088,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			1,
 			2,
@@ -11463,8 +10105,6 @@
 	},
 	"Primavera": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"06-10-2021",
@@ -11472,8 +10112,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			5,
@@ -11483,8 +10121,6 @@
 	},
 	"Punta Arenas": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"07-08-2020",
 			"21-08-2020",
@@ -11500,8 +10136,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			2,
 			1,
@@ -11519,8 +10153,6 @@
 	},
 	"Río Verde": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"04-03-2021",
 			"06-10-2021",
@@ -11528,8 +10160,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			5,
@@ -11539,8 +10169,6 @@
 	},
 	"San Gregorio": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-02-2021",
 			"06-10-2021",
@@ -11548,8 +10176,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			5,
@@ -11559,8 +10185,6 @@
 	},
 	"Timaukel": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"08-03-2021",
 			"06-10-2021",
@@ -11568,8 +10192,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			5,
@@ -11579,8 +10201,6 @@
 	},
 	"Torres del Paine": {
 		"dateChangePaso": [
-			"Invalid Date",
-			"Invalid Date",
 			"28-07-2020",
 			"25-02-2021",
 			"06-10-2021",
@@ -11588,8 +10208,6 @@
 			"24-11-2021"
 		],
 		"numeroDelPaso": [
-			null,
-			null,
 			3,
 			4,
 			5,

@@ -7,8 +7,8 @@ import dayjs from "dayjs";
 
 import fs from "fs";
 
-//const url = 'https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto74/paso_a_paso.csv';
-const url = "https://raw.githubusercontent.com/AntoineBraultChile/scrapping-covid-data-chile/main/output/planPasoAPaso24Noviembre2021.csv";
+const url = "https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto74/paso_a_paso.csv";
+// const url = "https://raw.githubusercontent.com/AntoineBraultChile/scrapping-covid-data-chile/main/output/planPasoAPaso24Noviembre2021.csv";
 
 (async () => {
   let paso = await csv(url);
